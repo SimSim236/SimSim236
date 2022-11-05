@@ -14,10 +14,10 @@
 - 📫 How to reach me **daviddoe068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=FilonxTN">
+ <a href="https://github.com/SimSim236/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SimSim236">
 </a>
-<a href="https://github.com/FilonxTN?tab=followers"><img src="https://img.shields.io/github/followers/FilonxTN?label=Followers&style=social" alt="GitHub Badge"></a> </a>
+<a href="https://github.com/SimSim236?tab=followers"><img src="https://img.shields.io/github/followers/SimSim236?label=Followers&style=social" alt="GitHub Badge"></a> </a>
 <p align="left">
 </p>
 
