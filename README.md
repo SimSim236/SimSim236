@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, CSS, CPP...**
 
-- 👯 I’m looking to collaborate on [FloridaRP](http://185.170.58.198:30120)
+- 👯 I’m looking to collaborate on [FloridaRP](http://93.186.69.6:30120)
 
 - 🤝 I’m looking for help with [SimDev](https://discord.gg/N6SPhZu2YJ)
 
