@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate backend developer from France <img src="https://github.com/SimSim236/SimSim236/blob/main/Developer.gif" height="32px"></h3>
 
-- 🔭 I’m currently working on Web Site [D'System](https://discord.gg/aaHETPxkhf)
+- 🔭 I’m currently working on Web Site [Perso](https://discord.gg)
 
-- 🌱 I’m currently learning **JS, CSS, CPP...**
-
-- 👯 I’m looking to collaborate on [FloridaRP](http://93.186.69.6:30120)
+- 🌱 I’m currently learning **JS, React, PHP...**
 
 - 🤝 I’m looking for help with [SimDev](https://discord.gg/N6SPhZu2YJ)
 
-- 💬 Ask me about **FiveM Bug...**
+- 💬 Ask me about **FiveM Bug, Developement web...**
 
 - 📫 How to reach me **daviddoe068@gmail.com**
 
