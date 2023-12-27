@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate backend developer from France <img src="https://github.com/SimSim236/SimSim236/blob/main/Developer.gif" height="32px"></h3>
+<h1 align="center">Hi 👋, I'm Sim</h1>
+<h3 align="center">A passionate fullstack developer from France <img src="https://github.com/SimSim236/SimSim236/blob/main/Developer.gif" height="32px"></h3>
 
-- 🔭 I’m currently working on Web Site [Perso](https://discord.gg)
+- 🔭 I’m currently working on personal Web Site [Perso](https://github.com)
 
-- 🌱 I’m currently learning **JS, React, PHP...**
+- 🌱 I’m currently learning **JavaScript, React, Node...**
 
-- 🤝 I’m looking for help with [SimDev](https://discord.gg/N6SPhZu2YJ)
-
-- 💬 Ask me about **FiveM Bug, Developement web...**
-
-- 📫 How to reach me **daviddoe068@gmail.com**
+- 💬 Ask me about **...**
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://github.com/SimSim236/github-profile-views-counter">
