@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate developer from France</h3>
 
-![I am Sim ](https://github.com/SimSim236/SimSim236/blob/main/webdev.png)
-
 - 🔭 I’m currently working on this page and Web Site [STI2D](https://github.com/SimSim236/sim.github.io)
 
 - 🌱 I’m currently learning **JavaScript, React, Git...**
