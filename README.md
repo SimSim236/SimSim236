@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on this page and Web Site [STI2D](https://github.com/SimSim236/sim.github.io)
+- 🔭 I’m currently working on this page and Web Site [STI2D](https://sti5d.fr)
 
 - 🌱 I’m currently learning **JavaScript, React, Git...**
 
