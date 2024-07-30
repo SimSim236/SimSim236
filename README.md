@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsim236&label=Profile%20views&color=0e75b6&style=flat" alt="simsim236" /> </p>
 
-<p align="left"> <img src="https://img.shields.io/github/followers/SimSim236?label=Followers&style=social" alt="GitHub Badge">< </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/SimSim236?label=Followers&style=social" alt="GitHub Badge"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simsim236" alt="simsim236" /></a> </p>
 
