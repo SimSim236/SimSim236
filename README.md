@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SimSim236/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SimSim236/?tab=repositories)
 
 - ⚡ Fun fact **I think I can play sports and code in my head**
 
