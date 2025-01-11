@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Aquarium Project & Python projects**<br>
+- 🔭 I’m currently working on **Autonomous Weather Station & C projects**<br>
 - 👯 I’m looking to collaborate on **[STI2D Website](https://www.sti5d.fr)**<br>
-- 🌱 I’m currently learning **Python, C++, React**<br>
+- 🌱 I’m currently learning **Python, C++, C**<br>
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/SimSim236?tab=repositories)<br>
 - ⚡ Fun fact **I think I can play sports and code in my head**
 
