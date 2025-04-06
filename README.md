@@ -51,3 +51,12 @@
 </div>
 
 ###
+
+<h3 align="left">🌟   Featured Projects :</h3>
+
+###
+
+- 🌦️ **LPO Project**: A project to design an autonomous weather station capable of collecting and analyzing meteorological data.
+- 🌐 **STI2D Website**: Contribution to the development of the website to present the STI2D course, aiming to highlight this multidisciplinary scientific sector.
+
+###
